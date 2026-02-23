@@ -125,8 +125,8 @@ This dashboard supports:
 
 ## 👨‍💻 Author  
 
-**Kumar Nikhil**  
-Data Analyst | Dashboard Developer | Business Intelligence Enthusiast  
+**Nagendra Arya**  
+Control Tower Executive (SCM)I Data Analyst | Dashboard Developer | Business Intelligence Enthusiast  
 
 ---
 
