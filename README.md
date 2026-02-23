@@ -36,7 +36,7 @@ This project demonstrates strong expertise in:
 Link :- https://lookerstudio.google.com/reporting/04b57dcd-68b9-455b-bc3d-f31cc156c337/page/Au7oF
 
 <p align="center">
-  <img src="Screenshot 2026-02-23 145733.png" alt="World Population Live Dashboard" width="100%">
+  <img src="https://github.com/Nagendra7290/Live-world-/blob/main/Screenshot%202026-02-23%20152029.png" alt="World Population Live Dashboard" width="100%">
 </p>
 ---
 
