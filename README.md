@@ -32,14 +32,12 @@ This project demonstrates strong expertise in:
 
 ## 📸 Dashboard Preview  
 
-Add your dashboard screenshot inside this repository using the exact file name:
+🔗 **View Interactive Dashboard Here:**  
+Link :- https://lookerstudio.google.com/reporting/04b57dcd-68b9-455b-bc3d-f31cc156c337/page/Au7oF
 
-Screenshot 2026-02-23 145733.png  
-
-Then display it using:
-
-![Dashboard Preview](Screenshot 2026-02-23 145733.png)
-
+<p align="center">
+  <img src="Screenshot 2026-02-23 145733.png" alt="World Population Live Dashboard" width="100%">
+</p>
 ---
 
 ## 🛠 Tools & Technologies Used  
