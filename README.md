@@ -1,4 +1,4 @@
-# 🌍 World Population Live Dashboard  
+# World Population Live Dashboard  - Google Looker Studio
 ### 📊 Built with Looker Studio | Real-Time Data Analytics Project
 
 ---
@@ -33,12 +33,13 @@ This project demonstrates strong expertise in:
 ## 📸 Dashboard Preview  
 
 🔗 **View Interactive Dashboard Here:**  
-Link :- https://lookerstudio.google.com/reporting/04b57dcd-68b9-455b-bc3d-f31cc156c337/page/Au7oF
+
 
 <p align="center">
   <img src="https://github.com/Nagendra7290/Live-world-/blob/main/Screenshot%202026-02-23%20152029.png" alt="World Population Live Dashboard" width="100%">
 </p>
----
+Dashboard Link :- https://lookerstudio.google.com/reporting/04b57dcd-68b9-455b-bc3d-f31cc156c337/page/Au7oF
+
 
 ## 🛠 Tools & Technologies Used  
 
